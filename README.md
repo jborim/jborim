@@ -8,14 +8,3 @@ Definimos altura e largura em img.shape e o tamanho da matriz, aqui será usada 
 Declaramos a erosão e dilatação que é necessária para abertura e fechamento, em iterations=2 é a quantidade de vezes que o efeito vai passar.
 Antes de imprimir as imagens, já incorporamos as funções as variáveis e agora a gradiente vai gerar o contorno na primeira imagem, abertura vai usar a erosão seguida da dilatação e o fechamento usa a dilatação em seguida da erosão.
  Por fim, cada imagem é imprimida separado.
-
-
-
-
-
-
-
-
-
-
-
